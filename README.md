@@ -1,4 +1,4 @@
-## Oiii eu sou a Wesley Braga, estudante de Java e Web (HTML,CSS e JavaScript)!
+## Oiii eu sou a Wesley Braga, estudante de Java e Web (HTML, CSS, JavaScript e React)!
 <div align="center">
   <a href="https://github.com/wesleyfreirebraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyfreirebraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
